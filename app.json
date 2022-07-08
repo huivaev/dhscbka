@@ -1,8 +1,7 @@
 {
-  "name": "RTX-01",
-  "description": "RTX-01",
+  "name": "dhscbka-01",
+  "description": "dhscbka-01",
   "keywords": [
-    ""
   ],
   "env": {
     "PROTOCOL": {
@@ -21,8 +20,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/YundtTheresa/XR-001",
-  "repository": "https://github.com/YundtTheresa/XR-001",
+  "website": "https://github.com/dhscbka/dhscbka-01",
+  "repository": "https://github.com/dhscbka/dhscbka-01",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
